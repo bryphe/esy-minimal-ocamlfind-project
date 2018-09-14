@@ -6,6 +6,9 @@
   "esy": {
     "build": [
       [
+        "env"
+      ],
+      [
         "ocamlfind",
         "query",
         "ocamlbuild"
